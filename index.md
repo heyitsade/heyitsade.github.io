@@ -2,7 +2,7 @@
 layout: default
 ---
 My Website:
-[nakanosec.com](nakanose.com).
+[nakanosec.com](http://nakanosec.com).
 
 There should be whitespace between paragraphs.
 
