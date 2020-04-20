@@ -6,13 +6,7 @@ My Website:
 
 Sebuah coretan dengan pemikiran seenak jidat yang dituangkan tanpa perasaan
 
-# Daftar Isi
-
-[Hacker Gak Butuh Cinta](http://nakanosec.com).
-
-Lorem ipsim
-
-When something is important enough, you do it even if the odds are not in your favor.
+StayAt127.0.0.1
 
 <style type="text/css">
 /* Style widget Covid */
