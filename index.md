@@ -7,7 +7,7 @@ My Website:
 Sebuah coretan dengan pemikiran seenak jidat yang dituangkan tanpa perasaan
 
 StayAt127.0.0.1
-<meta name="google-site-verification" content="Ofk64YSO0_MTxWFPZCtVfWQd41R8_QQ-pXOGG9vkpfc" />
+<head><meta name="google-site-verification" content="Ofk64YSO0_MTxWFPZCtVfWQd41R8_QQ-pXOGG9vkpfc" /></head>
 <style type="text/css">
 /* Style widget Covid */
 p.indonesia-detail{margin:0!important}.title-cov{text-align:center;color:#222;font-size:14px}.indonesia-title{font-size:20px;font-weight:600}.keterangan{font-size:10px;text-align:left;color:#ffffff}.data{margin:5px 0 10px;display:block}.data .positif,.data .sembuh,.data .meninggal,.data .indonesia{width:100%;padding:0.5rem 1rem;border-radius:5px;position:relative}.data .positif:before,.data .sembuh:before,.data .meninggal:before,.data .indonesia:before{content:&#39;&#39;;position:absolute;background:url(https://kawalcorona.com/data/images/svgs/circle.svg);background-position-x:0%;background-position-y:0%;background-repeat:repeat;background-position:right;background-repeat:no-repeat;width:100%;height:100%;opacity:0.5;top:0;left:0}.data .sembuh{margin:10px 0 10px auto}.data .indonesia{margin:10px 0 0 0}.data .positif{background:#f82649!important;display:flex;box-shadow:0 5px 10px rgba(167,66,153,0.3)}.data .sembuh{background:#09ad95!important;display:flex;box-shadow:0 5px 10px rgba(167,66,153,0.3)}.data .meninggal{background:#d43f8d!important;display:flex;box-shadow:0 5px 10px rgba(167,66,153,0.3)}.data .indonesia{background:#fc7303!important;display:flex;box-shadow:0 5px 10px rgba(167,66,153,0.3)}.emoji img{width:50px}.emoji{margin-left:auto!important;width:50px!important}.angka{font-weight:600!important;font-size:20px}.indonesia-detail{width:100px}
