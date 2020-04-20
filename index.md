@@ -55,6 +55,6 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
  Sumber data : Kementerian Kesehatan & JHU. Update terakhir : <span id="date"></span>
 </div>
  
-<iframe src="https://radarcovid19.jatimprov.go.id/" style="position:absolute" scrolling="no" frameborder="none">
+<iframe src="https://radarcovid19.jatimprov.go.id/" style="position:absolute;width:800px;height:500px;" scrolling="no" frameborder="none">
 </iframe>
 </html>
