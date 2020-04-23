@@ -6,7 +6,7 @@ My Website:
 
 Sebuah coretan dengan pemikiran seenak jidat yang dituangkan tanpa perasaan
 
-StayAt127.0.0.1
+
 <head><meta name="google-site-verification" content="Ofk64YSO0_MTxWFPZCtVfWQd41R8_QQ-pXOGG9vkpfc" /></head>
 <style type="text/css">
 /* Style widget Covid */
@@ -51,10 +51,4 @@ eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
     <img src="https://kawalcorona.com/uploads/indonesia-PZq.png" alt="Indonesia" /></div>
    </div>
   </div>
-<div class="title-cov">
- Sumber data : Kementerian Kesehatan & JHU. Update terakhir : <span id="date"></span>
-</div>
- 
-<iframe src="https://radarcovid19.jatimprov.go.id/" style="position:absolute;width:800px;height:500px;" scrolling="no" frameborder="none">
-</iframe>
 </html>
